@@ -1,0 +1,27 @@
+[
+    {
+        "department_id": 1,
+        "department_code": "KTS",
+        "department_name": "Katedra technick\u00fdch studi\u00ed"
+    },
+    {
+        "department_id": 2,
+        "department_code": "KES",
+        "department_name": "Katedra ekonomick\u00fdch studi\u00ed"
+    },
+    {
+        "department_id": 3,
+        "department_code": "KM",
+        "department_name": "Katedra matematiky"
+    },
+    {
+        "department_id": 4,
+        "department_code": "KSP",
+        "department_name": "Katedra soci\u00e1ln\u00ed pr\u00e1ce"
+    },
+    {
+        "department_id": 5,
+        "department_code": "KS",
+        "department_name": "Kabinet sportu"
+    }
+]

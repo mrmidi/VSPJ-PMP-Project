@@ -1,0 +1,22 @@
+[
+    {
+        "completion_id": 1,
+        "completion_code": "ZA",
+        "description": "z\u00e1po\u010dtem"
+    },
+    {
+        "completion_id": 2,
+        "completion_code": "KZ",
+        "description": "klasifikovan\u00fd z\u00e1po\u010det"
+    },
+    {
+        "completion_id": 3,
+        "completion_code": "ZK",
+        "description": "zkou\u0161kou"
+    },
+    {
+        "completion_id": 4,
+        "completion_code": "Z,ZK",
+        "description": "z\u00e1po\u010dtem a zkou\u0161kou"
+    }
+]

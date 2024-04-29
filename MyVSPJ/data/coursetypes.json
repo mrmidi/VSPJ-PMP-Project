@@ -1,0 +1,27 @@
+[
+    {
+        "type_id": 1,
+        "type_code": "P",
+        "description": "povinn\u00fd"
+    },
+    {
+        "type_id": 2,
+        "type_code": "CJ",
+        "description": "ciz\u00ed jazyk"
+    },
+    {
+        "type_id": 3,
+        "type_code": "PV A",
+        "description": "povinn\u011b voliteln\u00fd A"
+    },
+    {
+        "type_id": 4,
+        "type_code": "PV B",
+        "description": "povinn\u011b voliteln\u00fd B"
+    },
+    {
+        "type_id": 5,
+        "type_code": "V",
+        "description": "voliteln\u00fd p\u0159edm\u011bt"
+    }
+]
